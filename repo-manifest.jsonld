@@ -33,8 +33,9 @@
     {
       "@id": "https://repolex.ai/r/macournoyer/thin/commit/488564f0f113991d021c9166c85c5fe747a54eb2",
       "git:hexsha": "488564f0f113991d021c9166c85c5fe747a54eb2",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v0.6.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.6.1",
+      "repolex:parsedAt": "2026-04-20T15:31:31.728458+00:00"
     },
     {
       "@id": "https://repolex.ai/r/macournoyer/thin/commit/b6aa2a6e55acd25c77c217759789d5d9e8c2bc93",
